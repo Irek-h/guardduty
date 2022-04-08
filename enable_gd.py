@@ -13,5 +13,5 @@ for i in all_regions:
 
         print("In region ", i, " response is", response)
 
-	  except:
+    except:
         print("Already enabled or thrown an error")
