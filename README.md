@@ -14,5 +14,3 @@ OR
 3. cd guardduty
 4. python3 enable_gd.py
 5. python3 accept_invite.py
-
-And that's it
