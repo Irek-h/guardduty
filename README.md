@@ -30,7 +30,7 @@ How to send invites:
 1. Open CloudShell
 2. git clone https://github.com/Irek-h/guardduty.git
 3. cd guardduty
-4. edit "ACCID", "EMAIL" and save  
+4. edit "ACCID", "EMAIL" in file **send_invites.py** and save  
 ![obraz](https://user-images.githubusercontent.com/82705344/162448697-c2773c89-f4eb-4372-b666-7f281bd32672.png)  
 ![obraz](https://user-images.githubusercontent.com/82705344/162448741-daddea50-36d7-46db-a9b3-817c7d76adec.png)  
 Where ACCID is AWS account Id number, EMAIL is email address the account has been created with  
