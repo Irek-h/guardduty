@@ -1,18 +1,18 @@
 # guardduty
 
-Repo has 3 main python scripts.
-
 How to Use:
 
-Open CloudShell
-git clone https://github.com/Irek-h/guardduty.git
-cd guardduty
-python3 enable_gd.py
-python3 accept_invite.py
+1. Open CloudShell
+2. git clone https://github.com/Irek-h/guardduty.git
+3. chmod +x gd_setup.sh
+4. ./gd_setup.sh
+
+OR
+
+1. Open CloudShell
+2. git clone https://github.com/Irek-h/guardduty.git
+3. cd guardduty
+4. python3 enable_gd.py
+5. python3 accept_invite.py
 
 And that's it
-
-1. enable_gd.py
-2. send_invite.py
-3. accept_invite.py
-  
