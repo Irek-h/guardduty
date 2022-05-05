@@ -23,4 +23,4 @@ for i in all_regions:
         print("In region", i, ", we have those members: ", member)
 
     except:
-        print("DUNNO!")
+        print("Except")
