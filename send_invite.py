@@ -26,7 +26,8 @@ for i in all_regions:
 
         response = gd.invite_members(
                 DetectorId = detector_id,
-                AccountIds=['ACCID']
+                AccountIds=['ACCID'],
+                DisableEmailNotification=True
                 )
 
         print(response)
